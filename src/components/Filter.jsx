@@ -7,6 +7,7 @@ export const Filter = () => {
       <button className={styles.All}>All</button>
       <button className={styles.Active}>Active</button>
       <button className={styles.Completed}>Completed</button>
+      aaaaa
     </div>
   );
 };
