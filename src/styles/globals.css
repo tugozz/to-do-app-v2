@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header-style {
+  display: flex;
+  justify-content: center;
+  padding-top: 60px;
+  gap: 40px;
+}
+
+.header-mid {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.header-bottom {
+  display: flex;
+  gap: 6px;
+  width: 100vw;
+}
